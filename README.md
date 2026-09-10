@@ -25,10 +25,13 @@ Currently diving deep into low-level software design, algorithms, memory managem
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelmatusek&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Samuel's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmatusek&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samuelmatusek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=samuelmatusek&show_icons=true&theme=tokyonight&hide_border=true" alt="Samuel's GitHub Stats" />
+</p>
 
 ---
 
